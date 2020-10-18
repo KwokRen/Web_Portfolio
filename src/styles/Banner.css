@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400&family=Roboto:wght@300&display=swap');
+
+.banner-container {
+    color: white;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.banner-name {
+    font-size: 4rem;
+}
+
+.banner-title {
+    font-size: 2rem;
+}
