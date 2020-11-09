@@ -1,0 +1,17 @@
+:root {
+    --overlay-color: rgba(24, 39, 51, 0.85);
+    --menu-speed: 0.75s
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.menu-wrap {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
